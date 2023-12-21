@@ -3,7 +3,7 @@ import { FaChartBar } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-white shadow dark:bg-gray-900">
+    <footer className="bg-gray-100 shadow-md dark:border-none border-2 dark:bg-gray-900">
       <div className="w-full container mx-auto p-4 md:py-8">
         <div className="sm:flex sm:items-center sm:justify-between">
           <Link
